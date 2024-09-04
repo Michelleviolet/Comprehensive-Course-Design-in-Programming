@@ -1,0 +1,37 @@
+﻿  main.c
+C:\Users\jessica\source\repos\zyx\main.c(161,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(162,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(163,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(164,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(168,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(169,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(170,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(172,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(174,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(176,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(178,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(182,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(183,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(184,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(185,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(192,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(193,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(194,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(197,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(199,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(201,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(203,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(206,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(207,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(208,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(209,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(216,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(217,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(218,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(221,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(223,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(225,71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\jessica\source\repos\zyx\main.c(227,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  readfile.c
+  正在生成代码...
+  zyx.vcxproj -> C:\Users\jessica\source\repos\zyx\x64\Debug\zyx.exe
